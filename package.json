@@ -1,0 +1,22 @@
+{
+  "name": "billdeskjs",
+  "version": "1.0.0",
+  "description": "A tool to integrate billdesk payment gateway",
+  "main": "gen_message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerociousCentaur/billdeskJS.git"
+  },
+  "keywords": [
+    "node-billdesk"
+  ],
+  "author": "Vivek Anand <vivek17212797@gmail.com> (https://github.com/FerociousCentaur)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FerociousCentaur/billdeskJS/issues"
+  },
+  "homepage": "https://github.com/FerociousCentaur/billdeskJS#readme"
+}
