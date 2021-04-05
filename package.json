@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/FerociousCentaur/billdeskJS/issues"
   },
-  "homepage": "https://github.com/FerociousCentaur/billdeskJS#readme"
+  "homepage": "https://github.com/FerociousCentaur/billdeskJS#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
 }
