@@ -1,3 +1,4 @@
+"use strict";
 const CryptoJS = require('crypto-js');
 
 
@@ -149,3 +150,5 @@ class Message {
 
 
 }
+
+module.exports = Message;
