@@ -141,7 +141,7 @@ class Message {
         returnArray.MID = response.substring(pipeind1 + 1, pipeind2);
         returnArray.TaxnNo = response.substring(pipeind3 + 1, pipeind4);
         returnArray.OrderID = response.substring(pipeind2 + 1, pipeind3);
-        returnArray.status = response.substring(pipeind31 + 1, pipeind32);
+        //returnArray.status = response.substring(pipeind31 + 1, pipeind32);
         returnArray.TStat = response.substring(pipeind15 + 1, pipeind16);
         returnArray.RfndStat = response.substring(pipeind28 + 1, pipeind29);
         returnArray.AMNT = response.substring(pipeind27 + 1, pipeind28);
